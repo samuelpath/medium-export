@@ -9,7 +9,7 @@ An example of how easy it can be to generate a site based on an RSS feed. In thi
 
 You can get your own version of this site by just clicking the button below, and then providing a suitable Medium RSS feed URL.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/medium-export)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/samuelpath/medium-export)
 
 
 ### What will clicking that button do?
